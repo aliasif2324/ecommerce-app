@@ -1,0 +1,2 @@
+mkdir /tmp/data
+sudo mongod --dbpath /tmp/data
